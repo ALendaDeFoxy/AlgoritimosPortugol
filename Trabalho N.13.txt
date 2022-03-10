@@ -1,0 +1,7 @@
+1- enquanto o tempo da prova for maior que zero.
+2- para cada questão da prova.
+3- se o aluno souber a respota da questão.
+   responde a questão
+4- se não
+   passa a questão
+fim

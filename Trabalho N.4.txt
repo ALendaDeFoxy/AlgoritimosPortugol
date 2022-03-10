@@ -1,0 +1,5 @@
+1- Acordar
+2- levantar da cama
+3- Entrar no carro
+4- ir até o trabalho
+fim

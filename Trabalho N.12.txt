@@ -1,0 +1,6 @@
+1- Inserir o Numero.
+2- se o numero for maior que 0
+   exibir o numero com o sinal +
+3- se não
+   exibir o numero com o sinal -
+fim

@@ -1,0 +1,4 @@
+1- Declare o primeiro numero
+2- Multiplicar por *2 o Primeiro Numero
+3- Exibir o Resultado (Segundo Numero)
+fim

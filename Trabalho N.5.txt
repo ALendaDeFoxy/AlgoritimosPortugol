@@ -1,0 +1,7 @@
+1- Reunir os Ingredientes determinados pela receita.
+2- Misturar como indica a receita.
+3- Colocar a mistura em uma assadeira.
+4- levar ao fogo com a temperatura determinada pela receita.
+5- esperar o tempo estipulado pela receita.
+6- tirar o bolo do fogo
+fim

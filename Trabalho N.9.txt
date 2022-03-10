@@ -1,0 +1,7 @@
+1- pegue uma escada.
+2- coloque em baixo da lampada.
+3- suba na escada até alcançar a lampada.
+4- retire a lampada queimada.
+5- encaixe a lampada nova.
+6- Desça da escada.
+fim

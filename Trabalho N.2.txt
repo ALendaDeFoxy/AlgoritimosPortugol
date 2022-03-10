@@ -1,0 +1,5 @@
+1- Declare o primeiro numero
+2- Declare o  Segundo Numero
+3- Multiplicar o Primeiro e o Segundo Numero
+4- Exibir o Resultado (Terceiro numero)
+fim

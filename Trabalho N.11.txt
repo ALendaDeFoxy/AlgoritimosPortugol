@@ -1,0 +1,8 @@
+1- Inserir o valor do salario atual do funcionario.
+2- se o salario for maior ou iqual a 500
+   salario recebe o valor do salario *1.2
+   exibir o salario.
+3- se não
+   salario recebe o valor do salario *1.1
+   exibir o salario.
+fim

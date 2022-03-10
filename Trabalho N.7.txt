@@ -1,0 +1,6 @@
+1- Inserir o valor um.
+2- Inserir o valor dois.
+3- Calcular o valor da soma dos dois valores.
+4- dividir o valor por dois.
+5- se valor menor que 60 o aluno foi reprovado, se não o aluno foi Aprovado.
+fim 

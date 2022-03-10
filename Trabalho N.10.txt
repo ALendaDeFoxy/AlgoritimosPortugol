@@ -1,0 +1,13 @@
+1- Inserir o Primeiro Numero.
+2- Inserir o Segundo Numero.
+3- Inserir o Terceiro Numero.
+4- se o primeiro numero for maior que o segundo e o terceiro numero.
+   retornar o primeiro numero como o maior.
+5- se não 
+   se o segundo numero for maior que o primeiro e o terceiro numero.
+   retornar o segundo numero como o maior.
+   se não
+   se o terceiro numero for maior que o primeiro e o segundo numero.
+   retornar o terceiro numero como maior. 
+6- Exibir o Maior numero.
+fim

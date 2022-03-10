@@ -1,0 +1,8 @@
+1- Ir até o caixa mais proximo.
+2- inserir o cartão.
+3- Verificar Saldo (se saldo maior que $1000 sacar $1000)
+4- inserir e corfimar saque de $1000
+5- inserir e corfimar a senha.
+6- retirar o cartão
+7- finalizar a operação
+fim
